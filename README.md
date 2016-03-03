@@ -1,10 +1,10 @@
 # linux-catalog
 
-IP Address: 52.24.240.209
+IP Address: 52.27.247.145
 
 SSH Port: 2200
 
-URL: http://ec2-52-24-240-209.us-west-2.compute.amazonaws.com/
+URL: http://ec2-52-27-247-145.us-west-2.compute.amazonaws.com/
 
 Software Installed:
 - apache2
