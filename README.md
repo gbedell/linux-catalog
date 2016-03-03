@@ -17,5 +17,7 @@ Software Installed:
 - python-sqlalchemy
 - python-psycopg2
 - python-oauth2client
+- fail2ban
+- glances
 
 
