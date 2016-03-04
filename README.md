@@ -87,7 +87,7 @@ sudo rm README.md catalog.db database_setup.pyc delete_all_entries.py
 ```
 As you are following the rest of the instructions, simply replace "FlaskApp" with "catalog"
 
-At the end, also change the path of the client_secrets.json file in the __init__.py file to /var/www/catalog/catalog/client_secrets.json
+At the end, also change the path of the client_secrets.json file in the \__init__.py file to /var/www/catalog/catalog/client_secrets.json
 
 ## 9. Install and Configure PostgreSQL
 Follow instructions found here - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04
